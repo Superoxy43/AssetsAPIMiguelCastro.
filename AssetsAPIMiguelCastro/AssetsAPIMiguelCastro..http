@@ -1,0 +1,6 @@
+@AssetsAPIMiguelCastro__HostAddress = http://localhost:5152
+
+GET {{AssetsAPIMiguelCastro__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
